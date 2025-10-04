@@ -20,7 +20,7 @@ global.queenruva = "👑 𝐐𝐔𝐄𝐄𝐍 𝐑𝐔𝐕𝐀 𝐀𝐈 𝐁𝐄
 /**
  * Command prefix - Character that triggers bot commands
  */
-global.prefix = '!';
+global.prefix = '.';
 
 /**
  * Menu system version
