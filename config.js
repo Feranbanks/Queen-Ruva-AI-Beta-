@@ -20,7 +20,7 @@ global.queenruva = "👑 𝐐𝐔𝐄𝐄𝐍 𝐑𝐔𝐕𝐀 𝐀𝐈 𝐁𝐄
 /**
  * Command prefix - Character that triggers bot commands
  */
-global.prefix = '!';
+global.prefix = '.';
 
 /**
  * Menu system version
@@ -61,8 +61,8 @@ global.ignoreGroups = false;       // Ignore group messages
  * Bot creator and social links
  */
 global.codewave = 'codewave-unit.zone.id';
-global.ownername = "ICONICS-TECH";
-global.ownernumber = '263786115435';
+global.ownername = "Danzilla";
+global.ownernumber = '2349076242834';
 
 /**
  * Bot branding and information
