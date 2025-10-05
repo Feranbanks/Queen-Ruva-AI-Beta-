@@ -61,8 +61,8 @@ global.ignoreGroups = false;       // Ignore group messages
  * Bot creator and social links
  */
 global.codewave = 'codewave-unit.zone.id';
-global.ownername = "ICONICS-TECH";
-global.ownernumber = '263786115435';
+global.ownername = "Danzilla";
+global.ownernumber = '2349076242834';
 
 /**
  * Bot branding and information
